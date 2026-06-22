@@ -47,8 +47,8 @@ Una aplicación de escritorio completa para la gestión de clínicas veterinaria
 Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 🌐 ¡Añade los enlaces a tus estadísticas abajo!
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Casaenz-20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Casaenz-20&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
