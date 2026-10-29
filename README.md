@@ -10,7 +10,7 @@ Aplicaciones de escritorio, páginas web y experiencias de usuario modernas.
 ![Web](https://img.shields.io/badge/HTML_%2B_CSS-0F172A?style=for-the-badge&logo=html5&logoColor=38BDF8)
 ![IA generativa](https://img.shields.io/badge/IA_generativa-0F172A?style=for-the-badge&logoColor=38BDF8)
 
-**[Perfil](#perfil) · [Tecnologías](#tecnologías) · [Proyecto destacado](#proyecto-destacado) · [Actividad](#actividad)**
+**[Perfil](#perfil) · [Tecnologías](#tecnologías) · [Proyectos destacados](#proyectos-destacados) · [Actividad](#actividad)**
 
 </div>
 
@@ -69,7 +69,15 @@ Soy un apasionado **Desarrollador de Software** enfocado en la creación de apli
 
 </div>
 
-## Proyecto destacado
+## Proyectos destacados
+
+### 🧪 [Ciencia Esencia](https://github.com/Casaenz-20/ciencia-esencia)
+
+[Ver repositorio](https://github.com/Casaenz-20/ciencia-esencia) · [Explorar el código](https://github.com/Casaenz-20/ciencia-esencia/tree/main)
+
+### 💧 [AguasGestionCR](https://github.com/Casaenz-20/AguasGestionCR)
+
+[Ver repositorio](https://github.com/Casaenz-20/AguasGestionCR) · [Explorar el código](https://github.com/Casaenz-20/AguasGestionCR/tree/master)
 
 ### 🐾 [Sistema de Gestión Veterinaria «Dr. Pelos»](link-a-tu-repositorio)
 
@@ -83,12 +91,19 @@ Soy un apasionado **Desarrollador de Software** enfocado en la creación de apli
 
 ## Actividad
 
-Resumen de mi actividad en GitHub y de mis lenguajes de programación.
+Contadores de mi perfil y acceso directo a mi actividad en GitHub.
+
+[![Seguidores en GitHub](https://img.shields.io/github/followers/Casaenz-20?style=for-the-badge&label=Seguidores&color=0F172A&labelColor=0369A1)](https://github.com/Casaenz-20?tab=followers)
+[![Estrellas en GitHub](https://img.shields.io/github/stars/Casaenz-20?style=for-the-badge&label=Estrellas&color=0F172A&labelColor=0369A1)](https://github.com/Casaenz-20?tab=repositories)
+
+| Estadísticas | Consultar en GitHub |
+| :--- | :--- |
+| **Contribuciones** | [Calendario y actividad de mi perfil](https://github.com/Casaenz-20#year-list-container) |
+| **Repositorios y lenguajes** | [Explorar mis proyectos](https://github.com/Casaenz-20?tab=repositories) |
+| **Ciencia Esencia** | [Historial de commits](https://github.com/Casaenz-20/ciencia-esencia/commits/main/) · [Actividad del proyecto](https://github.com/Casaenz-20/ciencia-esencia/pulse) |
+| **AguasGestionCR** | [Historial de commits](https://github.com/Casaenz-20/AguasGestionCR/commits/master/) · [Actividad del proyecto](https://github.com/Casaenz-20/AguasGestionCR/pulse) |
 
 <div align="center">
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Casaenz-20&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8)](https://github.com/anuraghazra/github-readme-stats)
-[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Casaenz-20&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
